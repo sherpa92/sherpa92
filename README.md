@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요. iOS개발자(진) 장태환입니다. 👋
 
 <!--
 **sherpa92/sherpa92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
